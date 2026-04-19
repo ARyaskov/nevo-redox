@@ -1,4 +1,4 @@
-# Redox Minimal Server Overlay Repository
+# Redox Minimal Server Distribution
 
 This directory is a standalone overlay repository layout.
 
